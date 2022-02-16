@@ -2,8 +2,6 @@
 title: "Shiny Learnings"
 author: "Can Aytöre"
 date: "`r Sys.Date()`"
-url: 'https://github.com/canaytore/shiny-learnings/'
-github-repo: "canaytore/shiny-learnings"
 favicon: "favicon.jpg"
 site: bookdown::bookdown_site
 ---

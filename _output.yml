@@ -16,7 +16,7 @@ bookdown::gitbook:
       instapaper: false
       vk: false
       whatsapp: false
-      all: ['facebook', 'twitter', 'linkedin', 'whatsapp', 'weibo']
+      all: ['facebook', 'twitter', 'whatsapp', 'linkedin', 'weibo']
       
 bookdown::pdf_book:
   latex_engine: xelatex
