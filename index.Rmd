@@ -1,9 +1,10 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Shiny Learnings"
+author: "Can Aytöre"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
-# FIRST HEADER - START FROM HERE
+# Shiny - Get Started
 
+tbc..
