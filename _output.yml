@@ -7,7 +7,17 @@ bookdown::gitbook:
       after: |
         <li><a href="https://canaytore.github.io/" target="blank">Copyright &copy; Can Aytöre</a></li>
     download: ["pdf", "epub"]
-
+    sharing:
+      facebook: false
+      github: false
+      twitter: false
+      linkedin: false
+      weibo: false
+      instapaper: false
+      vk: false
+      whatsapp: false
+      all: ['facebook', 'twitter', 'linkedin', 'whatsapp', 'weibo']
+      
 bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
